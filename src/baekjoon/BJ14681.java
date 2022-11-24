@@ -1,5 +1,5 @@
 package baekjoon;
-
+//사분면 고르기
 import java.util.Scanner;
 
 public class BJ14681 {
