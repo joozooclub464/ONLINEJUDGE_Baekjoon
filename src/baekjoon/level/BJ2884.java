@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.level;
 //알람시계
 import java.util.Scanner;
 public class BJ2884 {
