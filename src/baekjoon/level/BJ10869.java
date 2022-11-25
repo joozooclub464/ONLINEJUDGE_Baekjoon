@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.level;
 
 public class BJ10869 {
     public static void main(String[] args) {
