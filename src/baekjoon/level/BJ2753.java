@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.level;
 //윤년
 import java.util.Scanner;
 
