@@ -1,5 +1,5 @@
 package baekjoon.level;
-
+//시험성적
 import java.util.Scanner;
 
 public class BJ9498 {
