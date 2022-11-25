@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.level;
 //사분면 고르기
 import java.util.Scanner;
 
