@@ -1,4 +1,4 @@
-package baekjoon;
+package baekjoon.level;
 //주사위 세개
 import java.util.Scanner;
 
