@@ -1,3 +1,4 @@
+//다음에 올 숫자
 class Solution {
     public int solution(int[] common) {
         int answer = 0;
