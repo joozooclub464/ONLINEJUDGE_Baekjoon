@@ -6,6 +6,7 @@ class Solution {
         return String answer = sb.reverse().toString();
         
         //다른풀이
+        //StringBuffer sb = new StringBuffer();
         //sb.append(my_string);
         //sb.reverse();
         //return sb.toString();
