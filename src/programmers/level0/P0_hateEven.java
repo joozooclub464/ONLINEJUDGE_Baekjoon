@@ -16,6 +16,9 @@ class Solution {
             }    
         }
      
+        //다른풀이
+        //return IntStream.rangeClosed(0, n).filter(value -> value % 2 == 1).toArray();
+        
         return answer;
     }
 }
@@ -23,3 +26,4 @@ class Solution {
 //for문 안에서 answer배열을 돌면서 i값을 넣어주려고 했었는데 내가 짠 코드대로라면 두번쨰 for문을 다 돌아야 탈출할 수 있어서 
 //answer에 계속 마지막 홀수값으로 도배가 되는 문제가 발생함.
 //a를 선언해주고 인덱스로 사용하니 해결됨.
+//스트림을 사용하여 간단하게 해결한 다른사람 풀이를 보았음..스트림...잘 쓰고싶다...다시 공부해야겠다.
