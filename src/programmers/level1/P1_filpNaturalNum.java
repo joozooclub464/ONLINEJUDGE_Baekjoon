@@ -27,7 +27,8 @@ class Solution {
       for(int i=0; i<answer.length; i++) {
           answer[i] = Integer.parseInt(strans[i]);
       }
-       
+      //다른 풀이
+      //return new StringBuilder().append(n).reverse().chars().map(Character::getNumericValue).toArray();
       return answer;
     }
 }
