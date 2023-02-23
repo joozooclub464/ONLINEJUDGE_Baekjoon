@@ -17,3 +17,4 @@ public class Solution {
         }
     }
 }
+// string.repeat(반복횟수) : 주어진 문자열을 옵션의count만큼 반복하여 붙인다음에 새로운 문자열로 반환하는 함수
